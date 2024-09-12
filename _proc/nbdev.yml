@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "book-music"
+  site-url: "https://eric-austin.github.io/book-music"
+  description: "Learning how to build a web app"
+  repo-branch: main
+  repo-url: "https://github.com/eric-austin/book-music"
